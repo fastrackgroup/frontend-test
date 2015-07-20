@@ -4,17 +4,17 @@ The purpose of this test is not only to quickly gauge an applicant's abilities w
 
 Applicants may use whatever techniques and Javascript/CSS frameworks they want to achieve the outcome.
 
-The design is very rudimentary, and it certainly won't be winning any awards - this is to ensure that the applicant can be confident that we are not simply using them to produce some of work for us without pay!
+The design is very rudimentary, and it certainly won't be winning any awards - this is to ensure that the applicant can be confident that we are not simply using them to produce some work for us without pay!
 
 ## How to complete the task
 
-First, fork this repository into your own public repo.  Complete the project and commit your work.  Send the URL to your own repository to development@fastrackg.com with the subject 'Front-end Developer Test'.
+First, fork this repository into your own public repo.  Complete the project and commit your work - minus the original Photoshop file (to keep the size down).  Send the URL of your own repository to development@fastrackg.com with the subject 'Front-end Developer Test'.
 
-If you are not comfortable with using Git, you can download the source files as a ZIP archive (click the 'Download ZIP' button on the right).  Complete the task and then re-archive all of your files (do NOT include the Photoshop file).  Share the file with use using a service such as Dropbox.
+If you are not comfortable with using Git, you can download the source files as a ZIP archive (click the `Download ZIP` button on the right).  Complete the task and then re-archive all of your files (do NOT include the Photoshop file).  Share the file to development@fastrackg.com using a service such as Dropbox.
 
 ## Show your working
 
-If you choose to use build tools to compile your CSS and Javascript (such as SASS of Coffescript) please include the original files as well.
+If you choose to use build tools to compile your CSS and Javascript (such as SASS of Coffescript) please include the original files as well.  You may update this README file outlining the details of what tools you have used.
 
 ## Fonts
 
