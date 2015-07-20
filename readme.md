@@ -1,4 +1,6 @@
-# Fastrack Group - Front-end Developer Test
+# Front-end Developer Test
+
+### Fastrack Group
 
 The purpose of this test is not only to quickly gauge an applicant's abilities with a simple HTML/CSS mockup, but also their approach to development.  It is not intended that applicants spend a great deal of time on the project - no more than two hours.
 
