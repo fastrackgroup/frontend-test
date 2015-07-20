@@ -22,6 +22,10 @@ If you choose to use build tools to compile your CSS and Javascript (such as SAS
 
 The fonts used in the document are Lato and Arvo - both are available on Google Fonts.
 
+## Cross-browser inconsistencies
+
+If you get around to doing cross-browser testing, for the sake of this project do not worry about any versions of Internet Explorer below version 9.  The most up-to-date versions of Chrome, Firefox and Safari will also suffice.  Include details in the README file/email of what cross-browser testing you have been able to do.
+
 ## Responsive Design
 
 For extra credit, ensure that the site scales well on mobile.  For giggles, hide the 'Facilties' panel when viewed on anything smaller than a portrait orientated iPad (we'll let you figure out the breakpoints).
